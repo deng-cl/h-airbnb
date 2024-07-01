@@ -2,6 +2,7 @@
     "name": "h_airbnb",
     "version": "0.1.0",
     "private": true,
+    "homepage": "http://47.121.143.202/h_airbnb/",
     "dependencies": {
         "@craco/craco": "^7.1.0",
         "@emotion/react": "^11.11.4",
